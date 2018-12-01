@@ -1,0 +1,47 @@
+Tarea:
+
+init.py
+
+El archivo init.py es utilizado para inicializar paquetes de Python.
+
+manifest.py 
+
+Describe qué problema resuelve el módulo.
+
+CONTROLLERS
+
+Los controladores deben proporcionar extensibilidad, de manera similar Model, pero no pueden usar el mismo mecanismo
+que lo srequisitos previos aún no están disponibles.
+Los controladores proporcionan así su propio mecanismo de extensión, separado así de los modelos.
+
+DEMO
+
+es una carpeta en la cual se puede crear demos, dicho de otra manera, se puede crear pruebas.
+
+MODELS
+
+Es la declaración de una entidad de información que cuenta de campos y relaciones con otras entidades, 
+pero también cuenta con la lógica o controlador. No deben confundir el modelo de MVC con el modelo de Odoo, 
+a este último lo llamamos modelo de negocio. El modelo de negocio, una vez que lo declaramos, 
+genera automáticamente su forma de persistirse en la base de datos, para nosotros es transparente.
+
+security
+
+Además de administrar el acceso manualmente usando un código personalizado, 
+Odoo proporciona dos mecanismos principales basados ??en datos para administrar o restringir el acceso a los datos.
+
+views
+
+Los objetos de vista exponen varios campos, son opcionales a menos que se especifique lo contrario.
+
+Conclusiones:
+
+- Se identificó los principales móduloes disponibles en el software ERM ODOO.
+- Se instaló módulos en el software ERP ODOO.
+- Se identificó los diferentes filtros para realizar búsquedas en ODOO, de manera que podemos encontrar diferentes elementos
+  que nos ofrece ERP ODOO.
+- Para la instalación de los diferentes módulos es necesario tener conexión a internet, ya que estos se tienen que descargar.
+- Los diferentes módulos pueden ser creados por diferentes autores, y cada uno de estos puede ser vendido, dependiendo de lo 
+  necesiten los usuarios.
+- En ODOO la creación de los módulos depende de las necesidades de las diferentes empresas, por lo que no es recomendable
+  utilizar módulos ya creados.

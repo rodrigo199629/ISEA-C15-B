@@ -1,0 +1,70 @@
+
+MÓDULOS MÁS IMPORTANTES DE ODOO
+
+1	CRM	
+
+	Con OpenERP CRM podrá hacer un seguimiento de todas sus comunicaciones con los clientes y de las posibilidades de venta de su negocio. Existe la opción de ajustar los ciclos de venta según sus requisitos, de crear estadísticas, previsiones y campañas de marketing automatizadas para así mejorar el rendimiento de ventas.
+
+2	Ventas / Gestión de pedidos	
+
+	Para conseguir un seguimiento integral desde la consulta hasta el pedido del cliente y su facturación, OpenERP pone a su disposición un módulo extenso y eficiente. Numerosos análisis completan la funcionalidad de esta valiosa herramienta.
+
+3	Contabilidad y finanzas	
+
+	Realice sus entradas con unos pocos clics y gestione sus finanzas en un único modulo. Nunca fue tan fácil manejar su contabilidad financiera.
+
+4	Compras	
+
+	Registre y siga sus órdenes de compra, administre los datos de contacto de sus proveedores, supervise la entrada de mercancías y controle las facturas recibidas de sus proveedores.
+
+5	Gestión de control de almacenes	
+
+	La gestión y el control de almacenes de OpenERP funcionan en base al principio de la doble contabilización; de esta manera es posible retratar de forma sencilla requisitos complejos de la gestión del almacén: seguimiento de existencias de proveedores o bien clientes, trazabilidad completa de movimientos de almacén, enlace con contabilidad, etc. OpenERP fomenta la ilustración de varios almacenes que son definidos tanto geográficamente como jerárquicamente. Administre su propio almacén interno, externos, de clientes, proveedores o lugar de almacenamiento y producción.
+
+6	Fabricación
+
+	Planifique y controle su cadena de suministro con ayuda de distintas aplicaciones en el módulo “Fabricación” de OpenERP. Personalice sus datos clave. Configure la planificación de fabricación, administre las órdenes de fabricación y de trabajo.
+
+7	Recursos humanos y nóminas
+
+	Administre el valor más preciado de su compañía: “sus empleados”. Con nuestro módulo RRHH además de ser capaz de introducir información personal de sus empleados, podrá registrar tiempos de asistencia y ausencia, registrar el cómputo de horas asociadas a cada proyecto y las dietas correspondientes, a crear evaluaciones del personal y por último a gestionar la selección de personal.
+
+
+ERP'S MÁS USADAS
+
+1	ODOO
+	ODOO integra todas las áreas de la empresa. Gracias a su interfaz web, usted puede tener control de todas sus operaciones desde cualquier lugar y desde cualquier equipo PC, iMac, Tabletas Android o iPad, SmartPhones o iPhones.
+
+	ODOO maneja los procesos como Normas NIIF, Contabilidad, Presupuestos, Centros de costos, Facturación, Cartera, Cadena de Suministro, Ventas incluyendo CRM, Puntos de ventas, Control de inventarios con códigos de barra, Producción, Gestión de activos, Recursos humanos - Evaluación de personal, Nómina, Gestión de proyecto, Gestión documental, Workflow de procesos (BPM) con Aprobaciones de operaciones, Mantenimiento de maquinaria, Procesos automatizados y Mucho Más...Existen más de 2.700 módulos!
+
+2	MGX ERP
+	MGX es una plataforma multicompañía que entiende su negocio y le permite centrarse en su empresa y su crecimiento.
+	* FINANCIERO: Gestiones (Financiero NIIF, Tesorería, cartera proveedores, cartera clientes, gestión de impuestos, activos fijos, gestión de diferidos, gestión de presupuesto, Multimoneda, caja menor, socios y accionistas, Seguimiento a cartera clientes, transacciones Multicompañía, unidades de negocios, ciudades, sucursales, centro de costos y proyectos).
+	* NÒMINA Y RRHH: Gestiones (Liquidación de nómina, prestaciones sociales, préstamos y descuentos, incapacidades y ausentismo, liquidación de tiempo suplementario, gestión de seguridad social, contabilización, hojas de vida, contratos, dotación, capacitaciones, llamados de atención y vencimiento de documentos).
+	* COMERCIAL: Gestiones (inventarios, compras, cotizaciones, pedidos, facturación, punto de venta, remisiones, consumos por unidades de negocios, prospectos, órdenes de servicios, importaciones, órdenes de taller, contabilización en línea, control de garantías y proyectos, ship agency, operadores portuarios).
+	* PORTAL DE AUTOGESTIÓN: (para empleados, proveedores y clientes).
+	* GESTIÓN DOCUMENTAL: (integrado al sistema, archivadores virtuales, digitalización de todo tipo de documento).
+
+3	SAP BUSSINES ONE
+		SAP Business One, es un software de gestión administrativa y gestión de negocios totalmente integrado que ha sido diseñado para satisfacer las necesidades de las pequeñas y medianas empresas. Es un único sistema que puede automatizar operaciones críticas de negocio, tales como ventas, finanzas, contabilidad, compras, CRM, inventarios, fabricación, puntos de ventas, entre otros. Además de brindar visiones exactas y actualizadas minuto a minuto de la información de la empresa. Sistema tipo ERP, Integración con Microsoft Office y Outlook. Soporta múltiples monedas, múltiples idiomas y múltiples compañías, incluye las NIIF (Normas Internacionales de Información Financiera) y Factura Electrónica.
+		SAP Business One ofrece una forma fácil de integrar las operaciones del negocio, lo que ayuda a aumentar la productividad y la eficiencia con una económica inversión inicial. * Brindando hasta el 100% de financiación de su proyecto a través de algunas entidades financieras. El 79% de los clientes de SAP son PYMES. * SAP Business One cuenta con más de 50.000 clientes en el mundo, más de 10.000 en Latinoamérica, y más de 1000 clientes en Colombia. * SAP Business One ofrece MOVILIDAD: Ahora usted puede desde su iPad, iPhone o Android acceder a la información importante de su empresa como autorizar documentos, revisar las alarmas sobre los procesos de negocios, consultar la información importante de un cliente o proveedor, consultar los saldos de inventario y listas de precios o revisar los informes gerenciales. Totalmente integrado en tiempo real a SAP Business One sin costo adicional. Somos líderes en el mercadeo de tecnología informática y socio potencial de negocios de SAP. * Más de 27 años de experiencia en soluciones de Tecnología Informática • Más de 600 implementaciones exitosas en Colombia, Latinoamérica y USA.
+
+4	MICROSOFT DYNAMICS
+	MENTUM le brinda las plataformas para que gestione sus procesos operativos, comerciales, mercadeo, servicio al cliente, administrativos y financieros. 
+	Con Microsoft Dynamics, empresas de todos los tamaños y sectores tendrán a su alcance la posibilidad de adoptar mejores prácticas mundiales en diferentes procesos, con una funcionalidad robusta y completamente integrada con todas las herramientas que Microsoft ofrece. Por esta razón, millones de usuarios en todo el mundo se soportan en las plataformas de Dynamics para ayudar a crecer sus negocios. Microsoft Dynamics le permite el manejo multicompañía y multimoneda de manera dinámica y amigable a través de sus módulos, para que todas las áreas de su negocio puedan beneficiarse de tener controlados y optimizados sus procesos. Contabilidad, presupuesto, tesorería, ventas, compras, inventarios, manufactura, proyectos, recurso humano, nómina, mercadeo, servicio al cliente son algunos de sus módulos. Visualice su información con tableros dinámicos en Power BI y con diversos reportes que le permitirán la toma de decisiones asertivas, ágil y oportunamente. Para un mundo cambiante, asegúrese de tener una plataforma que le permitirá crecer en tamaño, expandirse a nuevos mercados o negocios y poder operar en cualquier parte del mundo sin preocuparse que sus sistemas de información no puedan con el reto. Decida si quiere tener la plataforma en la nube, en sitio o combinado.
+
+5 QLIK
+	Qlik lleva 8 años consecutivos en el cuadrante de Gartner como líder en Business Intelligence y fue el creador de la categoria Data Discovery.
+	MUCHO MÁS QUE REPORTES Y VISUALIZACION:
+	* Extracción e Integración de datos desde múltiples fuentes
+	* Modelos analíticos.
+	* Análisis Descriptivo, Diagnostico y predictivo
+	* Flexibilidad en implementación: Analítica Guiada o Auto servicio.
+	* Consultas desde cualquier dispositivo.
+	* Implementación ágil para victorias tempranas.
+	* Soluciones Cloud.
+	* Conectores a Redes Sociales.
+	* Aprovechamiento del Big Data y Minería de Datos.
+	* Interacción con Machine Learning.
+	Encuentre infomación valiosa en sus datos alojados en multiples fuentes. Qlik le permite ver el detalle de su información y su contexto para tomar de decisiones acertadas. Analice, revele, colabore y actúe.
+

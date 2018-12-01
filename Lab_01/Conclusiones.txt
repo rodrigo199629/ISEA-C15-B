@@ -1,0 +1,15 @@
+Observaciones y Conclusiones:
+
+- Para la instalación de ODOO se presentaron inconvenientes, considerando que ya se tenía instalada la versión 10.0, sin embargo se desinstaló para instalar la versión
+  más reciente por ello se originó un error que no permitía utilizar ODOO, por lo visto el error tenía que ver con la base de datos y el usuario ya creado anteriormente
+  ya que al eliminar el usuario que se habñia creado con la versión 10.0 y cambiar el nombre del usuario al instalar ODOO se solucionó el problema. 
+
+- ODOO trabaja con su propia base de datos, la cual es PostgresSQL, esta base de datos se instala al momento de instalar ODOO en el equipo.
+
+- ODOO preferentemente trabaja con el sistema operativo Linux, sin embargo es posible trabajarlo en diferentes sistemas operativos.
+
+- ODOO trabaja con módulos diferentes, los cuales se instalan desde la sección de aplicaciones, cada uno de estos módulos realiza diferentes funciones, las cuales son
+  específicas para cada empresa, por lo que una de las desventajas de ODOO al utilizarlo para administrar una empresa es que se tiene que crear módulos específicos para
+  cada sección de la empresa.
+
+- Hay desarrolladores que se dedican a crear módulos y venderlos a las empresas.

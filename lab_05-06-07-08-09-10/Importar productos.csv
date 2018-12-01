@@ -1,0 +1,7 @@
+id;name;standart_price;price
+"_export_.producto_1";"Mouse";15;25
+"_export_.producto_2";"Teclados";12;15
+"_export_.producto_3";"Monitores";16;18
+"_export_.producto_4";"Parlantes";20;26
+"_export_.producto_5";"Audífonos";15;30
+"_export_.producto_6";"Prueba importación CSV LAYME";999;9999

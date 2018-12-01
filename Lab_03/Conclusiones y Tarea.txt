@@ -1,0 +1,26 @@
+Importar archivo CSV
+En el nuevo submenú :menuselection: [UNKNOWN NODE title_reference], haga clic en Importar y seleccione el archivo de Excel para importar desde el botón Elegir archivo. 
+Asegúrese de que su extensión sea .csv y no se olvide de configurar las opciones de formato de los archivos correctamente (Codificación y Separador*) 
+para que coincida con los valores locales y se muestren las columnas correctamente.
+
+Nota
+
+Si la base de datos de los prospectos se proporciona en otro formato que no sea CSV, 
+usted puede fácilmente convertir al formato CSV con Microsoft Excel, 
+OpenOffice / LibreOffice Calc, Google Docs, etc.
+
+Seleccionar filas para importar
+
+Odoo asignará automáticamente los encabezados de las columnas de su archivo CSV a los campos correspondientes, 
+si se marca la opción de La primera fila del archivo que contiene la etiqueta de la columna. Esto hace que las 
+importaciones sean más fáciles, especialmente cuando el archivo tiene muchas columnas. Por supuesto, puede reasignar 
+los encabezados de la columna para describir la propiedad que va a importar de datos dentro (Nombre, Apellidos, Correo electrónico, etc.).
+
+Conclusiones:
+
+- Se instaló, configuró y utilizó un módulo CRM de ODOO.
+- Se vió las diferentes cunciones que pueden realizar los diferentes mçodulos de ODOO, de manera que se revisó cada una de sus secciones.
+- Se avanzó con el proceso de trabajar con ODOO, se ingresó las espectativas, los KPIs, etc.
+- Se creó diferentes clientes para trabajar con ODOO, se verificó que los clientes se creeen satisfactoriamente y realicen las funciones establecidas a la hora de su creación.
+- Se administró el equipo de ventas editando uno de ellos y agregando nuevos clientes a estas.
+- Se trabajó con las iniciativas y oportunidades, se notó que las iniciativas pueden transformacrce en oportunidades.
