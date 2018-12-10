@@ -1,0 +1,86 @@
+<odoo>
+    <data>
+        <template id="courses_list">
+            <t t-call="website.layout"> 
+                <t t-set="title">Academy Courses</t>
+                <div class="oe_structure">
+                    <div class="container">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                <th scope="col">ID</th>
+                                <th scope="col">Name</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            <t t-foreach="courses" t-as="course">
+                                <tr>
+                                    <td><t t-esc="course.id" /></td>
+                                    <td><t t-esc="course.name"/></td>
+                                </tr>
+                            </t>
+                            </tbody>
+                            </table>
+                    </div>
+                </div>
+            </t>
+        </template>
+
+    <!-- Sessions template -->
+        <template id="sessions_list">
+            <t t-call="website.layout"> 
+                <t t-set="title">Academy Sessions</t>
+                <div class="oe_structure">
+                    <div class="container">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                <th scope="col">ID</th>
+                                <th scope="col">Name</th>
+                                <th scope="col">Course</th>
+                                <th scope="col">Instructor</th>
+                                <th scope="col">Start date</th>
+                                <th scope="col">End Date</th>
+                                <th scope="col">Duration</th>
+                                <th scope="col">Seats</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            <t t-foreach="sessions" t-as="session">
+                                <tr>
+                                    <td><t t-esc="session.id" /></td>
+                                    <td><t t-esc="session.name"/></td>
+                                    <td><t t-esc="session.course_id.name" /></td>
+                                    <td><t t-esc="session.instructor_id.name"/></td>
+                                    <td><t t-esc="session.start_date" /></td>
+                                    <td><t t-esc="session.end_date"/></td>
+                                    <td><t t-esc="session.duration" /></td>
+                                    <td><t t-esc="session.seats"/></td>
+                                </tr>
+                            </t>
+                            </tbody>
+                            </table>
+                    </div>
+                </div>
+            </t>
+        </template>
+        <!-- <template id="listing"> -->
+        <!--   <ul> -->
+        <!--     <li t-foreach="objects" t-as="object"> -->
+        <!--       <a t-attf-href="#{ root }/objects/#{ object.id }"> -->
+        <!--         <t t-esc="object.display_name"/> -->
+        <!--       </a> -->
+        <!--     </li> -->
+        <!--   </ul> -->
+        <!-- </template> -->
+        <!-- <template id="object"> -->
+        <!--   <h1><t t-esc="object.display_name"/></h1> -->
+        <!--   <dl> -->
+        <!--     <t t-foreach="object._fields" t-as="field"> -->
+        <!--       <dt><t t-esc="field"/></dt> -->
+        <!--       <dd><t t-esc="object[field]"/></dd> -->
+        <!--     </t> -->
+        <!--   </dl> -->
+        <!-- </template> -->
+    </data>
+</odoo>

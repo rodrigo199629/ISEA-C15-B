@@ -1,0 +1,81 @@
+<odoo>
+    <data>
+        <!-- res.partner action window -->
+        <record id="contact_list_action" model="ir.actions.act_window">
+            <field name="name">Contacts</field>
+            <field name="res_model">res.partner</field>
+            <field name="view_mode">tree,form</field>
+        </record>
+
+        <!-- res.partner form view -->
+        <record id="contact_view_form" model="ir.ui.view">
+            <field name="name">res.partner.view.form</field>
+            <!-- es necesario agregar esto caundo se hereda de una vista -->
+            <field name="inherit_id" ref="base.view_partner_form"></field>
+            <field name="model">res.partner</field>
+            <field name="arch" type="xml">
+                <notebook position="inside">
+                    <page string="Sessions" name="sessions_of_partner">
+                        <group>
+                            <field name="instructor"/>
+                            <field name="session_ids">
+                                <tree>
+                                    <field name="name"/>
+                                    <field name="course_id"/>
+                                    <field name="instructor_id"/>
+                                </tree>
+                            </field>
+                        </group>
+                    </page>
+                </notebook>
+            </field>
+        </record>
+
+        <!-- res.partner tree view -->
+        <record id="contact_view_tree" model="ir.ui.view">
+            <field name="name">res.partner.view.tree</field>
+            <field name="inherit_id" ref="base.view_partner_tree" />
+            <field name="model">res.partner</field>
+            <field name="arch" type="xml">
+            
+                 <!-- <tree position="attributes">
+                    <attribute name="decoration-danger">instructor == 1</attribute>
+                    <field name="instructor"/>
+                </tree> -->
+                <tree>
+                    <field name="name"/>
+                    <field name="instructor"/>
+                </tree>
+            
+            </field>
+        </record>
+
+        <!-- vistas para tags -->
+        <!-- res.partner.category action window -->
+        <record id="contact_tags_action" model="ir.actions.act_window">
+            <field name="name">Contact Tags</field>
+            <field name="type">ir.actions.act_window</field>
+            <field name="res_model">res.partner.category</field>
+            <field name="view_mode">tree,form</field>
+            <field name="view_type">form</field>
+        </record>
+
+
+
+        <record model="res.partner.category" id="teacher_1">
+            <field name="name">Teacher / level 1</field>
+        </record>
+        <record model="res.partner.category" id="teacher_2">
+            <field name="name">Teacher / level 2</field>
+        </record>
+
+        <!-- This Menu Item Must have a parent -->
+        <menuitem id="configuration_menu" name="Configuration" parent="openacademy_menu_root"/>
+
+        <!-- This Menu Item must have a parent and an action -->
+        <menuitem id="contacts_menu" parent="configuration_menu" action="contact_list_action"/>
+
+        <!-- This Menu Item must have a parent and an action -->
+        <menuitem id="contact_tags_menu_act" name="Contact tags" parent="configuration_menu" action="contact_tags_action" />
+    </data>
+</odoo>
